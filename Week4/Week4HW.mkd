@@ -1,0 +1,65 @@
+# **Marco Guanchez**
+## 10/30/23
+
+1. What does one need to do to use a module?**
+   
+   Need to import the respective module into a code-based, by using the import statement. 
+
+2. Name a Module (not the DateTime Nodule) we looked at and write a line or 2 of code as an example using this module.
+
+    Math  
+    import math  
+    print("square root...", math.sqrt(400))  
+    square root... 20.0
+
+3. What is the benefit of using Exception handling?
+
+    To identify error
+
+4. What are the 4 components used for Python Exception Handling? 
+   * Try
+   * Except
+   * Else
+   * Finally
+
+5. NumPy arrays are like what Python Data type? 
+
+    List
+
+6. What is one of the main benefits of using NumPy arrays?
+
+    * Occupy less memory
+  
+7. What is one of the main requirements about the 'dtype' of NumPy arrays? 
+   
+   Need to explicitly specify using data type "dtype".
+
+
+8. Of the 10 uses of NumPy, name 2.
+
+    * Linear Algebra
+    * Bitwise operator
+
+9. Name one of the other libraries we'll use with NumPy?
+    
+    Pandas
+
+10. What is the shape of NumPy arrays?
+
+    One dimension or  Multi-dimensional
+11. What is a Tensor?
+
+    An array with 3+ dimensions.
+
+12. Name a reason why it's better using NumPy for Data Analysis than using a Python List?
+    * Storage efficiency
+    * Faster
+    * More convenient
+
+13. When creating an "empty" array, where do the elements come from? 
+
+    It comes from the fact that the array doesn't have its values initialized (unpredictable and to the mercy of whatever happens to be allocated for the array)
+
+
+
+
