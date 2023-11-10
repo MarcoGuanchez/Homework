@@ -14,7 +14,14 @@
 
 3. What is the benefit of using Exception handling?
 
-    To identify error
+    Exception handling consists of using four exception statements: Try, except, else, and finally
+    Each one has a purpose:
+    * Try-Tests a block of errors
+    * Except - Handles the error
+    * Else - executes code when there is not error
+    * Finally - executes code, regardless of try and except  
+    The benefits is that errors can be identified and handled appropietely with the correct statement. 
+
 
 4. What are the 4 components used for Python Exception Handling? 
    * Try
@@ -33,6 +40,7 @@
 7. What is one of the main requirements about the 'dtype' of NumPy arrays? 
    
    Need to explicitly specify using data type "dtype".
+   Since Numpy arrays are homogeneous, the main requirement is that must have the same data type in order to allow for efficient storage and better manipulation of data. 
 
 
 8. Of the 10 uses of NumPy, name 2.
