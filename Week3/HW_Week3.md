@@ -10,7 +10,7 @@
     An error which occurs when a program does compile, but does not do what you want. 
 4. What is the # 1 rule of coding/debugging?
 
-    Not applying rubber ducking. 
+    Not applying rubber ducking. When not articulating a code or debugging outloud to make sense of it, and forcing ourself to explain the code. In other words, simplifying a complex task. 
 5. List 5 Python reserved word. 
     * try
     * raise
