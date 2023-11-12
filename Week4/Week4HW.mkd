@@ -54,7 +54,7 @@
 
 10. What is the shape of NumPy arrays?
 
-    One dimension or  Multi-dimensional
+    The shape is a **tuple** of _non-negative integers_ that specify the dimensions, length, and size of each array (3,2,4).
 11. What is a Tensor?
 
     An array with 3+ dimensions.
