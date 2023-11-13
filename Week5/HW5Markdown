@@ -15,7 +15,7 @@ Panda Analysis
 * Data load
 * Manipulate
 * Model
-* Prepara 
+* Preparation
 
 ### 4. To permanently sort a DataFrame, which keyword should one use with the `df.sort()` method?
 inplace= True
